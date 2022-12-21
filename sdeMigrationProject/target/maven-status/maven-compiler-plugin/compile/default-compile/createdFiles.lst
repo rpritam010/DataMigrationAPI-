@@ -1,0 +1,8 @@
+com\iitj\migration\sdeMigrationProject\repository\StudentRepository.class
+com\iitj\migration\sdeMigrationProject\repository\mstuRepository.class
+com\iitj\migration\sdeMigrationProject\service\studentDetails.class
+com\iitj\migration\sdeMigrationProject\SdeMigrationProjectApplication.class
+com\iitj\migration\sdeMigrationProject\Entity\student.class
+com\iitj\migration\sdeMigrationProject\repository\DeleteStudentRecord.class
+com\iitj\migration\sdeMigrationProject\service\studentDetailIsImpl.class
+com\iitj\migration\sdeMigrationProject\controller\studentController.class
